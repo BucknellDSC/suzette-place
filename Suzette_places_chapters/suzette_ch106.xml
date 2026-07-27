@@ -1582,10 +1582,10 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/BucknellDSC/suzette-place/master/Suzette_places_chapters/suzette_ch106.xml?place_annotation_20231016205822502",
+	"id": "https://raw.githubusercontent.com/BucknellDSC/suzette-place/master/Suzette_places_chapters/suzette_ch106.xml?place_annotation_20260724111607087",
 	"type": "oa:Annotation",
-	"dcterms:created": "2023-10-17T00:58:22.502Z",
-	"dcterms:modified": "2026-07-24T15:16:07.087Z",
+	"dcterms:created": "2026-07-24T15:16:07.087Z",
+	"dcterms:modified": "2026-07-27T15:38:24.589Z",
 	"dcterms:creator": {
 		"@id": "11",
 		"@type": [
@@ -1596,7 +1596,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette-place/master/Suzette_places_chapters/suzette_ch106.xml?place_annotation_20231016205822502#Target",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette-place/master/Suzette_places_chapters/suzette_ch106.xml?place_annotation_20260724111607087#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette-place/master/Suzette_places_chapters/suzette_ch106.xml",
@@ -1610,7 +1610,7 @@
 			"schema:softwareVersion": "4.3.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette-place/master/Suzette_places_chapters/suzette_ch106.xml?place_annotation_20231016205822502#Selector",
+			"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette-place/master/Suzette_places_chapters/suzette_ch106.xml?place_annotation_20260724111607087#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/div[3]/div/div[2]/p[6]/placeName[2]"
 		}
@@ -1628,6 +1628,16 @@
 		"schema:softwareVersion": "4.3.0"
 	},
 	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		},
 		{
 			"dcterms:contributor": {
 				"@id": "https://github.com/workbesot",
@@ -2609,10 +2619,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/BucknellDSC/suzette-place/master/Suzette_places_chapters/suzette_ch106.xml?place_annotation_20260624141024015",
+	"id": "https://raw.githubusercontent.com/BucknellDSC/suzette-place/master/Suzette_places_chapters/suzette_ch106.xml?place_annotation_20260724111500934",
 	"type": "oa:Annotation",
-	"dcterms:created": "2026-06-24T18:10:24.015Z",
-	"dcterms:modified": "2026-07-24T15:15:00.934Z",
+	"dcterms:created": "2026-07-24T15:15:00.934Z",
 	"dcterms:creator": {
 		"@id": "11",
 		"@type": [
@@ -2623,7 +2632,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette-place/master/Suzette_places_chapters/suzette_ch106.xml?place_annotation_20260624141024015#Target",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette-place/master/Suzette_places_chapters/suzette_ch106.xml?place_annotation_20260724111500934#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette-place/master/Suzette_places_chapters/suzette_ch106.xml",
@@ -2637,7 +2646,7 @@
 			"schema:softwareVersion": "4.3.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette-place/master/Suzette_places_chapters/suzette_ch106.xml?place_annotation_20260624141024015#Selector",
+			"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette-place/master/Suzette_places_chapters/suzette_ch106.xml?place_annotation_20260724111500934#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/div[3]/div[2]/div[2]/p[3]/placeName[2]"
 		}
@@ -2653,29 +2662,7 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.0"
-	},
-	"dcterms:contributor": [
-		{
-			"dcterms:contributor": {
-				"@id": "https://github.com/workbesot",
-				"@type": [
-					"cwrc:NaturalPerson",
-					"schema:Person"
-				],
-				"cwrc:hasName": "John Westbrook"
-			}
-		},
-		{
-			"dcterms:contributor": {
-				"@id": "https://github.com/workbesot",
-				"@type": [
-					"cwrc:NaturalPerson",
-					"schema:Person"
-				],
-				"cwrc:hasName": "John Westbrook"
-			}
-		}
-	]
+	}
 }]]>
         </rdf:Description>
       
@@ -3178,10 +3165,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/BucknellDSC/suzette-place/master/Suzette_places_chapters/suzette_ch106.xml?place_annotation_20260724111224669",
+	"id": "https://raw.githubusercontent.com/BucknellDSC/suzette-place/master/Suzette_places_chapters/suzette_ch106.xml?place_annotation_20260724111228247",
 	"type": "oa:Annotation",
-	"dcterms:created": "2026-07-24T15:12:24.669Z",
-	"dcterms:modified": "2026-07-24T15:12:28.247Z",
+	"dcterms:created": "2026-07-24T15:12:28.247Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/workbesot",
 		"@type": [
@@ -3192,7 +3178,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette-place/master/Suzette_places_chapters/suzette_ch106.xml?place_annotation_20260724111224669#Target",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette-place/master/Suzette_places_chapters/suzette_ch106.xml?place_annotation_20260724111228247#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette-place/master/Suzette_places_chapters/suzette_ch106.xml",
@@ -3206,7 +3192,7 @@
 			"schema:softwareVersion": "4.3.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette-place/master/Suzette_places_chapters/suzette_ch106.xml?place_annotation_20260724111224669#Selector",
+			"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette-place/master/Suzette_places_chapters/suzette_ch106.xml?place_annotation_20260724111228247#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/div/p/note/placeName[2]"
 		}
@@ -3257,10 +3243,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/BucknellDSC/suzette-place/master/Suzette_places_chapters/suzette_ch106.xml?place_annotation_20260724111346802",
+	"id": "https://raw.githubusercontent.com/BucknellDSC/suzette-place/master/Suzette_places_chapters/suzette_ch106.xml?place_annotation_20260724111350906",
 	"type": "oa:Annotation",
-	"dcterms:created": "2026-07-24T15:13:46.802Z",
-	"dcterms:modified": "2026-07-24T15:13:50.906Z",
+	"dcterms:created": "2026-07-24T15:13:50.906Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/workbesot",
 		"@type": [
@@ -3271,7 +3256,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette-place/master/Suzette_places_chapters/suzette_ch106.xml?place_annotation_20260724111346802#Target",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette-place/master/Suzette_places_chapters/suzette_ch106.xml?place_annotation_20260724111350906#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette-place/master/Suzette_places_chapters/suzette_ch106.xml",
@@ -3285,7 +3270,7 @@
 			"schema:softwareVersion": "4.3.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette-place/master/Suzette_places_chapters/suzette_ch106.xml?place_annotation_20260724111346802#Selector",
+			"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette-place/master/Suzette_places_chapters/suzette_ch106.xml?place_annotation_20260724111350906#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/div/p[3]/note[3]/placeName"
 		}
@@ -3425,7 +3410,7 @@
                            <placeName key="Terre-Neuve" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_gazetteer.xml#suzpl0650">Terre-Neuve</placeName>. Malgré leur petite taille, ils sont
                         robustes et résistent parfaitement à la fatigue.</p>
                      <p>L'<term>autruche</term>, que l'on trouve seulement en
-                           <placeName key="Afrique" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_gazetteer.xml#suzpl0001">Afrique</placeName> et en <placeName key="Arabie Saoudite" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_gazetteer.xml#suzpl0035">Arabie</placeName>, est
+                           <placeName key="Afrique" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_gazetteer.xml#suzpl0001">Afrique</placeName> et en <placeName key="Arabie" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_gazetteer.xml#suzpl0035">Arabie</placeName>, est
                         le plus gros des oiseaux connus ; sa tête peut atteindre jusqu'à 2m,50 de
                         hauteur. Cet animal ne peut voler, mais il court très vite sur de longues et
                         fortes pattes armées d'ongles redoutables, surtout lorsque le vent gonfle
