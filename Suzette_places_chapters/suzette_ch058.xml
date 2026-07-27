@@ -2604,6 +2604,7 @@
 	"id": "https://raw.githubusercontent.com/BucknellDSC/suzette-place/master/Suzette_places_chapters/suzette_ch058.xml?place_annotation_20260621105923562",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-06-21T14:59:23.562Z",
+	"dcterms:modified": "2026-07-27T15:40:03.577Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/workbesot",
 		"@type": [
@@ -2625,7 +2626,7 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "4.2.0"
+			"schema:softwareVersion": "4.3.0"
 		},
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette-place/master/Suzette_places_chapters/suzette_ch058.xml?place_annotation_20260621105923562#Selector",
@@ -2643,7 +2644,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "4.2.0"
+		"schema:softwareVersion": "4.3.0"
 	}
 }]]>
         </rdf:Description>
@@ -4898,7 +4899,7 @@
                   <div type="réponses">
                      <p>Les <term>Arabes</term> habitent une presqu'île aride et sablonneuse, située
                         à l'est de la  ; les villes principales de
-                           l'<placeName key="Arabie Saoudite" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_gazetteer.xml#suzpl0035">Arabie</placeName> sont : <term><placeName key="Mecque" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_gazetteer.xml#suzpl0129">la
+                           l'<placeName key="Arabie" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_gazetteer.xml#suzpl0035">Arabie</placeName> sont : <term><placeName key="Mecque" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_gazetteer.xml#suzpl0129">la
                            Mecque</placeName></term>, <term><placeName key="Médine" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_gazetteer.xml#suzpl0230">Médine</placeName></term> et
                               <term><placeName key="Moka" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_gazetteer.xml#suzpl0804">Moka</placeName></term> ; — les <term>Persans</term>
                         forment une nation qui vit entre la , le <placeName key="golfe Persique" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_gazetteer.xml#suzpl0266">golfe
