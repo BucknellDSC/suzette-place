@@ -2208,10 +2208,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/BucknellDSC/suzette-place/master/Suzette_places_chapters/suzette_ch059.xml?place_annotation_20260621111220797",
+	"id": "https://raw.githubusercontent.com/BucknellDSC/suzette-place/master/Suzette_places_chapters/suzette_ch059.xml?place_annotation_20260723150754105",
 	"type": "oa:Annotation",
-	"dcterms:created": "2026-06-21T15:12:20.797Z",
-	"dcterms:modified": "2026-07-23T19:07:54.105Z",
+	"dcterms:created": "2026-07-23T19:07:54.105Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/workbesot",
 		"@type": [
@@ -2222,7 +2221,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette-place/master/Suzette_places_chapters/suzette_ch059.xml?place_annotation_20260621111220797#Target",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette-place/master/Suzette_places_chapters/suzette_ch059.xml?place_annotation_20260723150754105#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette-place/master/Suzette_places_chapters/suzette_ch059.xml",
@@ -2236,7 +2235,7 @@
 			"schema:softwareVersion": "4.3.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette-place/master/Suzette_places_chapters/suzette_ch059.xml?place_annotation_20260621111220797#Selector",
+			"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette-place/master/Suzette_places_chapters/suzette_ch059.xml?place_annotation_20260723150754105#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/div[3]/div[2]/div[2]/p[2]/placeName[7]"
 		}
@@ -2365,10 +2364,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/BucknellDSC/suzette-place/master/Suzette_places_chapters/suzette_ch059.xml?place_annotation_20260621111320463",
+	"id": "https://raw.githubusercontent.com/BucknellDSC/suzette-place/master/Suzette_places_chapters/suzette_ch059.xml?place_annotation_20260723150722993",
 	"type": "oa:Annotation",
-	"dcterms:created": "2026-06-21T15:13:20.463Z",
-	"dcterms:modified": "2026-07-23T19:07:22.993Z",
+	"dcterms:created": "2026-07-23T19:07:22.993Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/workbesot",
 		"@type": [
@@ -2379,7 +2377,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette-place/master/Suzette_places_chapters/suzette_ch059.xml?place_annotation_20260621111320463#Target",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette-place/master/Suzette_places_chapters/suzette_ch059.xml?place_annotation_20260723150722993#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette-place/master/Suzette_places_chapters/suzette_ch059.xml",
@@ -2393,7 +2391,7 @@
 			"schema:softwareVersion": "4.3.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette-place/master/Suzette_places_chapters/suzette_ch059.xml?place_annotation_20260621111320463#Selector",
+			"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette-place/master/Suzette_places_chapters/suzette_ch059.xml?place_annotation_20260723150722993#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/div[3]/div[3]/div/list/item[2]/placeName"
 		}
@@ -2837,7 +2835,7 @@
                         des grands hommes.</p>
                      <p>Le Français de Brazza a
                         pénétré de la même manière dans la <placeName key="région équatoriale de l'Afrique" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_gazetteer.xml#suzpl0612">région équatoriale de
-                           l'Afrique</placeName> baignée par l' et appelée le
+                           l'Afrique</placeName> baignée par l'Ogué et appelée le
                            <placeName key="Gabon" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_gazetteer.xml#suzpl0038">Gabon</placeName>. Il y a conquis, par l'ascendant d'une
                         volonté honnête, humaine et persévérante, une telle influence qu'il a doté
                         sa patrie d'une colonie de grand avenir.</p>
