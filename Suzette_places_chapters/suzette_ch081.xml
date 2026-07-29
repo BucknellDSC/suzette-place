@@ -3457,6 +3457,7 @@
 	"id": "https://raw.githubusercontent.com/BucknellDSC/suzette-place/master/Suzette_places_chapters/suzette_ch081.xml?place_annotation_20260622142507819",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-06-22T18:25:07.819Z",
+	"dcterms:modified": "2026-07-29T14:38:38.723Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -3478,7 +3479,7 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "4.2.0"
+			"schema:softwareVersion": "4.3.0"
 		},
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette-place/master/Suzette_places_chapters/suzette_ch081.xml?place_annotation_20260622142507819#Selector",
@@ -3488,7 +3489,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:RealPlace",
-		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_gazetteer.xml#suzpl0569",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_gazetteer.xml#suzpl0095",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -3496,8 +3497,20 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "4.2.0"
-	}
+		"schema:softwareVersion": "4.3.0"
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -5560,10 +5573,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/BucknellDSC/suzette-place/master/Suzette_places_chapters/suzette_ch081.xml?place_annotation_20260724102604690",
+	"id": "https://raw.githubusercontent.com/BucknellDSC/suzette-place/master/Suzette_places_chapters/suzette_ch081.xml?place_annotation_20260724162309939",
 	"type": "oa:Annotation",
-	"dcterms:created": "2026-07-24T14:26:04.690Z",
-	"dcterms:modified": "2026-07-24T20:23:09.939Z",
+	"dcterms:created": "2026-07-24T20:23:09.939Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/workbesot",
 		"@type": [
@@ -5574,7 +5586,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette-place/master/Suzette_places_chapters/suzette_ch081.xml?place_annotation_20260724102604690#Target",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette-place/master/Suzette_places_chapters/suzette_ch081.xml?place_annotation_20260724162309939#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette-place/master/Suzette_places_chapters/suzette_ch081.xml",
@@ -5588,7 +5600,7 @@
 			"schema:softwareVersion": "4.3.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette-place/master/Suzette_places_chapters/suzette_ch081.xml?place_annotation_20260724102604690#Selector",
+			"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette-place/master/Suzette_places_chapters/suzette_ch081.xml?place_annotation_20260724162309939#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/div[3]/div[3]/div[4]/p[2]/placeName[4]"
 		}
@@ -6040,7 +6052,7 @@
                         n'est cultivé avec plus de soin et ne produit davantage ; il compte nombre
                         de villes importantes dont la population dépasse un million d'habitants ;
                         telles sont : <placeName key="Péking" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_gazetteer.xml#suzpl0092">Pékin</placeName>,
-                           <placeName key="Soutchéou" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_gazetteer.xml#suzpl0097">Sou-tchéou</placeName>, <placeName key="Nanxing" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_gazetteer.xml#suzpl0569">Nanxing</placeName>,
+                           <placeName key="Soutchéou" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_gazetteer.xml#suzpl0097">Sou-tchéou</placeName>, <placeName key="Nan-king" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_gazetteer.xml#suzpl0095">Nanxing</placeName>,
                            <placeName key="Shang-haî" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_gazetteer.xml#suzpl0098">Shang-haï</placeName>, <placeName key="Fou-tchéou" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_gazetteer.xml#suzpl0496">Fou-tchéou</placeName>,
                            <placeName key="Hankéou" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_gazetteer.xml#suzpl0094">Han-Kéou</placeName>, <placeName key="Canton" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_gazetteer.xml#suzpl0099">Canton</placeName>. La
                            <placeName key="Chine" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_gazetteer.xml#suzpl0013">Chine</placeName> renferme les plus riches mines de houille du
