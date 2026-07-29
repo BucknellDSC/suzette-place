@@ -1585,6 +1585,7 @@
 	"id": "https://raw.githubusercontent.com/BucknellDSC/suzette-place/master/Suzette_places_chapters/suzette_ch089.xml?place_annotation_20260623091449009",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-06-23T13:14:49.009Z",
+	"dcterms:modified": "2026-07-29T16:23:40.459Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/workbesot",
 		"@type": [
@@ -1616,7 +1617,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:RealPlace",
-		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_gazetteer.xml#suzpl0349",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_gazetteer.xml#suzpl0002",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -2597,10 +2598,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/BucknellDSC/suzette-place/master/Suzette_places_chapters/suzette_ch089.xml?place_annotation_20260724105424315",
+	"id": "https://raw.githubusercontent.com/BucknellDSC/suzette-place/master/Suzette_places_chapters/suzette_ch089.xml?place_annotation_20260724105430805",
 	"type": "oa:Annotation",
-	"dcterms:created": "2026-07-24T14:54:24.315Z",
-	"dcterms:modified": "2026-07-24T14:54:30.805Z",
+	"dcterms:created": "2026-07-24T14:54:30.805Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/workbesot",
 		"@type": [
@@ -2611,7 +2611,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette-place/master/Suzette_places_chapters/suzette_ch089.xml?place_annotation_20260724105424315#Target",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette-place/master/Suzette_places_chapters/suzette_ch089.xml?place_annotation_20260724105430805#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette-place/master/Suzette_places_chapters/suzette_ch089.xml",
@@ -2625,7 +2625,7 @@
 			"schema:softwareVersion": "4.3.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette-place/master/Suzette_places_chapters/suzette_ch089.xml?place_annotation_20260724105424315#Selector",
+			"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette-place/master/Suzette_places_chapters/suzette_ch089.xml?place_annotation_20260724105430805#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/div[3]/div/div[2]/p[4]/placeName"
 		}
@@ -2762,7 +2762,7 @@
                          rence de hauteur entre la marée basse et la marée
                         haute est de 14 à 15 mètres ; dans 
                               <placeName key="la baie de Fundy" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_gazetteer.xml#suzpl0529"> la baie de Fundy</placeName>, en
-                           <placeName key="Amérique septentrionale" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_gazetteer.xml#suzpl0349">Amérique</placeName>, elle mesure jusqu'à 21 mètres ; par
+                           <placeName key="Amérique du nord" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_gazetteer.xml#suzpl0002">Amérique</placeName>, elle mesure jusqu'à 21 mètres ; par
                         contre, elle atteint à moins d'un mètre dans les mers fermées, telles que la <placeName key="Méditerranée" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_gazetteer.xml#suzpl0215">Méditerranée</placeName>.</p>
                      <p>Une <term>plage</term> est un rivage plat et découvert ; — une
                            <term>falaise</term> se présente, sur le bord de la mer, comme un mur
